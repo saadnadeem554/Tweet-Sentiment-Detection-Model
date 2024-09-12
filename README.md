@@ -9,7 +9,3 @@ Emotion recognition from text is an important task in sentiment analysis and nat
 ## Dataset
 
 The dataset used for this project consists of labeled tweets with corresponding emotion categories. The data was preprocessed to remove noise, such as URLs, mentions, and non-alphanumeric characters.
-
-## Installation
-
-To run this project locally, you need to have Python and Jupyter Notebook installed. You can install the required Python packages using the following command:
